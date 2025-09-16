@@ -75,3 +75,6 @@ Task02/
 	 
 Автор
 SergeevSergey (Kulebyaka1337)
+
+**Ссылка на проект на Packagist:**
+https://packagist.org/packages/mr-wo/guess-number
